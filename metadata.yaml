@@ -1,0 +1,32 @@
+_repo: With-Rogers-on-the-Frontier-A-Story-of-1756_53560
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Devitt, F. J.
+    gutenberg_agent_id: '47435'
+    url: http://www.gutenberg.org/2009/agents/47435
+creator:
+  author:
+    agent_name: Oxley, J. Macdonald (James Macdonald)
+    alias: Oxley, James M. (James Macdonald)
+    birthdate: 1855
+    deathdate: 1907
+    gutenberg_agent_id: '3223'
+    url: http://www.gutenberg.org/2009/agents/3223
+description: ''
+gutenberg_issued: '2016-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53560'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- French and Indian War, 1754-1763 -- Juvenile
+  fiction'
+- !lcsh 'Rogers, Robert, 1731-1795 -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'With Rogers on the Frontier: A Story of 1756'
+url: http://www.gutenberg.org/ebooks/53560
